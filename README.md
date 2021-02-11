@@ -1,5 +1,7 @@
 # some_catch
 
+A game whose purpose is to catch different goods, written in java using the framework LibGdx.
+
 How to set up a project:
 1. Packages `(android, core, desktop)` must be declared as gradle modules.
 2. Create a configuration to start the computer - `Edit Configuration -> Add New Configuration -> Application -> 
